@@ -1,2 +1,3 @@
-# TUSDR
-The Ultimate Space Shooter Remastered Git ! Grab the game over there.
+# The Ultimate Space Shooter Remastered !
+_Official TUSDR Git Repository_
+
