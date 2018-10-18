@@ -1,6 +1,6 @@
 # Update 0.1 changelog
 
-## Initial game release !
+**Initial game release !**
 
 
 _What are the changes ?_
