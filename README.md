@@ -2,4 +2,4 @@
 _Official TUSDR Git Repository_
 
 
-**Please see the 'Issues' tab for reported bugs and miscellaneous issues.
+**Please see the 'Issues' tab for reported bugs and miscellaneous issues.**
